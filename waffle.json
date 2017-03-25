@@ -1,0 +1,28 @@
+    {
+    "waffles": [
+        "has given you a blue waffle!",
+        "has given you a soft homemade oatmeal waffle!",
+        "has given you a plain, dry, old waffle. It was the last one in the bag. Gross.",
+        "gives you a sugar waffle. What, no frosting and sprinkles? 0\/10 would not touch.",
+        "gives you a chocolate waffle. Oh wait, those are raisins. Bleck!",
+        "gives you an enormous waffle. Poking it gives you more waffles. Weird.",
+        "gives you a fortune waffle. It reads \"Why aren't you working on any projects?\"",
+        "gives you a fortune waffle. It reads \"Give that special someone a compliment\"",
+        "gives you a fortune waffle. It reads \"Take a risk!\"",
+        "gives you a fortune waffle. It reads \"Go outside.\"",
+        "gives you a fortune waffle. It reads \"Don't forget to eat your veggies!\"",
+        "gives you a fortune waffle. It reads \"Do you even lift?\"",
+        "gives you a fortune waffle. It reads \"m808 pls\"",
+        "gives you a fortune waffle. It reads \"If you move your hips, you'll get all the ladies.\"",
+        "gives you a fortune waffle. It reads \"I love you.\"",
+        "gives you a Golden waffle. You can't eat it because it is made of gold. Dammit.",
+        "gives you a rainbow waffle made with love :heart:",
+        "gives you an old cookie that was left out in the rain, it's moldy.",
+        "bakes you fresh cookies, it smells amazing."
+    ],
+    
+    "eatwaffle": "\/me eats a waffle.",
+    "nouserwaffle": "\/em doesn't see %%NAME%% in room and eats a waffle himself.",
+    "selfwaffle": "\/me @%%NAME%%, you're a bit greedy, aren't you? Giving waffles to yourself, bah. Share some with other people!",
+    "waffle": "\/me @%%NAMETO%%, %%NAMEFROM%% %%WAFFLE%%",
+    }
